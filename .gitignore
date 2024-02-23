@@ -1,5 +1,7 @@
 src/resources/
 
+bin/
+
 .classpath
 
 # Compiled class file
