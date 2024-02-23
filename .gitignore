@@ -1,5 +1,7 @@
 src/resources/
 
+.classpath
+
 # Compiled class file
 *.class
 
